@@ -1,0 +1,7 @@
+et-xmlfile==1.0.1
+jdcal==1.4.1
+openpyxl==3.0.6
+Pillow==8.1.0
+pyPdf==1.13
+PyPDF2==1.26.0
+reportlab==3.5.42

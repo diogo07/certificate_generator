@@ -1,0 +1,7 @@
+credentials.py
+data/inscritos.xlsx
+.idea
+__pycache__
+venv
+files/certificado.pdf
+files/saida-certificado.pdf
